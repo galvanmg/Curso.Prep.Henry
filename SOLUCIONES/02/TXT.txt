@@ -1,0 +1,4 @@
+FOR: bucle con sintaxis unica, se define una variable, una condicion y i++.
+&& AND, comando Y, se cumple cuando ambas afirmaciones son correctas
+|| OR, comando O, se cumple cuando al menos 1 es correcta de las afirmaciones.
+! NOT, comando de negacion, niega lo que estamos por escribir
