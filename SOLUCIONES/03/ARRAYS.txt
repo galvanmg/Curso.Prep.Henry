@@ -1,0 +1,1 @@
+ARRAYS: Arreglos, son contenedores de datos, pueden contener variables, cadenas, valores, etc.
