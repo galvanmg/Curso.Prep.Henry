@@ -1,0 +1,7 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Objetos: Son contenedores de datos sobre un objeto particular. Pueden contener muchos datos de este mismo.
+Propiedades: Propiedades, son las caracteristicas que este objeto contiene (en caso de que la persona sea el objeto contendria datos como edad, nombre, altura, etc)
+Métodos: Los metodos son funciones que se introducen en los objetos. Se definen de la misma manera dentro de los corhcetes {}
+Bucle for…in: Recorre todas las claves del objeto y finaliza cuando todas las claves interactuan entre si.
+Notación de puntos vs notación de corchetes:  Con las notaciones de puntos podemos llamar a las propiedades especificas de un objeto, especificando primero el mismo y luego la propiedad. La notacion de corchetes se utiliza para llamar una cadena o numeros.
